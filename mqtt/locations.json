@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9750541388,
+                    38.8410857803
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "Southern Ave",
+                "marker-symbol": "rail-metro",
+                "title": "Southern Ave",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=107",
+                "lines": [
+                    "Green"
+                ],
+                "address": "1411 Southern Avenue, Temple Hills, MD 20748"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.935256783,
+                    38.9081784965
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "Deanwood",
+                "marker-symbol": "rail-metro",
+                "title": "Deanwood",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=65",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "4720 Minnesota Avenue NE, Washington, DC 20019"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9281249818,
+                    38.9786336339
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "College Park",
+                "marker-symbol": "rail-metro",
+                "title": "College Park",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=79",
+                "lines": [
+                    "Green"
+                ],
+                "address": "4931 Calvert Road, College Park, MD 20740"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9110575731,
+                    39.0111458605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "Greenbelt",
+                "marker-symbol": "rail-metro",
+                "title": "Greenbelt",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=80",
+                "lines": [
+                    "Green"
+                ],
+                "address": "5717 Greenbelt Metro Drive, Greenbelt, MD 20740"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9695766751,
+                    38.9550401707
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "West Hyattsville",
+                "marker-symbol": "rail-metro",
+                "title": "West Hyattsville",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=77",
+                "lines": [
+                    "Green"
+                ],
+                "address": "2700 Hamilton St., Hyattsville, MD 20782"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.113168835,
+                    38.8821828738
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "Ballston",
+                "marker-symbol": "rail-metro",
+                "title": "Ballston",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=99",
+                "lines": [
+                    "Orange",
+                    "Silver"
+                ],
+                "address": "4230 Fairfax Drive, Arlington, VA 22201"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.053667574,
+                    38.8141436672
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "Braddock Road",
+                "marker-symbol": "rail-metro",
+                "title": "Braddock Road",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=47",
+                "lines": [
+                    "Blue",
+                    "Yellow"
+                ],
+                "address": "700 N. West St., Alexandria, VA 22301"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0628101291,
+                    38.8846868585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "Arlington Cemetery",
+                "marker-symbol": "rail-metro",
+                "title": "Arlington Cemetery",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=42",
+                "lines": [
+                    "Blue"
+                ],
+                "address": "1000 North Memorial Drive, Arlington, VA 22211"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0580425191,
+                    38.9347628908
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "Cleveland Park",
+                "marker-symbol": "rail-metro",
+                "title": "Cleveland Park",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=8",
+                "lines": [
+                    "Red"
+                ],
+                "address": "3599 Connecticut Avenue NW, Washington, DC 20008"
+            }
+        }
+    ]
+}
