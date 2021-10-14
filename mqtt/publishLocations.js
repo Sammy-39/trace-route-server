@@ -21,6 +21,7 @@ const publishLocations = () =>{
     const timer_ID = setInterval(()=>{
         publish('location_updates', JSON.stringify(locations.features[index++]))
         if(index===locations.features.length){
+            publish('alert',JSON.stringify('end'))
             client.end()
         }
     },3000)
